@@ -2,6 +2,7 @@
 This repository contains the screenshots and link to the [She Means Business](https://mylinksync.com) website, created by Ashwinkumar Rathod and varshith Reddy. 
 ## Website Link  [She Means Business](https://mylinksync.com)
 
+This website was built using **WordPress**.
 ## Website Link
 
 [She Means Business](https://mylinksync.com)
